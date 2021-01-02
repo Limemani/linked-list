@@ -1,0 +1,2 @@
+C:\Projects\sviyznoi spisok\x64\Debug\sviyznoi spisok.exe
+C:\Projects\sviyznoi spisok\x64\Debug\sviyznoi spisok.pdb
